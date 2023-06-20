@@ -1,4 +1,5 @@
 {
+
   "name": "componentes",
   "version": "0.0.1",
   "author": "Ionic Framework",
@@ -64,3 +65,4 @@
   },
   "description": "An Ionic project"
 }
+

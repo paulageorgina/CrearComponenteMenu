@@ -1,6 +1,6 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
-const config: CapacitorConfig = {
+const config: CapacitorConfig =  {
   appId: 'io.ionic.starter',
   appName: 'componentes',
   webDir: 'www',
